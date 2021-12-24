@@ -6,7 +6,7 @@
 
 # `` well ``
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lloyd4565/nuisance z)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lloyd4565/nuisance-z)
 
 
 # `` nuisena``
